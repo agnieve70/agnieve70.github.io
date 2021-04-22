@@ -2,6 +2,7 @@ body {
   text-align: center;
   margin: 80px auto 0;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color:darkslategray;
 }
 
 .emoji {
@@ -330,7 +331,7 @@ body {
 }
 
 .emoji--sad:after {
-  content: "For what it's worth. Sorry";
+  content: "Sorry";
 }
 
 .emoji--sad .emoji__face {
