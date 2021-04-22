@@ -330,7 +330,7 @@ body {
 }
 
 .emoji--sad:after {
-  content: 'Sad';
+  content: "For what it's worth. Sorry";
 }
 
 .emoji--sad .emoji__face {
